@@ -1,4 +1,4 @@
-function isMagical(matrix) {
+function composeCalories(matrix) {
     let sum = 0;
     let isMagical = true;
 
@@ -28,19 +28,19 @@ function isMagical(matrix) {
     console.log(isMagical);
 }
 
-isMagical([
+composeCalories([
     [4, 5, 6],
     [6, 5, 4],
     [5, 5, 5]]);
 // true
 
-isMagical([
+composeCalories([
     [11, 32, 45],
     [21, 0, 1],
     [21, 1, 1]]);
 // false
 
-isMagical([
+composeCalories([
     [1, 0, 0],
     [0, 0, 1],
     [0, 1, 0]]);
