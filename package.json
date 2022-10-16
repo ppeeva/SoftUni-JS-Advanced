@@ -1,0 +1,22 @@
+{
+  "name": "softuni-js-advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppeeva/SoftUni---JS-Advanced.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ppeeva/SoftUni---JS-Advanced/issues"
+  },
+  "homepage": "https://github.com/ppeeva/SoftUni---JS-Advanced#readme",
+  "dependencies": {
+    "chai": "^4.3.6"
+  }
+}
