@@ -1,3 +1,6 @@
+
+// TODO: judge 80/100
+
 function validate() {
     const company = document.getElementById('company');    
     company.addEventListener('change', toggleCompanyInfo);
